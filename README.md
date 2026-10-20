@@ -36,3 +36,5 @@ Interested in cybersecurity and encryption systems, discrete math, cool graphica
 </td>
 </tr>
 </table>
+
+<!-- ASCII Art by Blazej Kozlowski from ASCII Art Archive: https://www.asciiart.eu/
