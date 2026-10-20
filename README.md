@@ -1,4 +1,4 @@
-<!-- Keep the table below free of blank lines, or GitHub will stop treating it as HTML and the layout will break. -->
+<!-- Keep the table below free of blank lines or GitHub stops treating it as HTML and the layout breaks -->
 
 <table>
 <tr>
@@ -23,8 +23,8 @@
 </td>
 <td valign="top">
 Andrew Freeland | <a href="mailto:amf23m@fsu.edu">amf23m@fsu.edu</a><br>
-<a href="https://www.linkedin.com/in/afreeland956">www.linkedin.com/in/afreeland956</a><br>
 21 years<br>
+<a href="https://www.linkedin.com/in/afreeland956">www.linkedin.com/in/afreeland956</a><br>
 <br>
 Languages: C++, Python, Java, SQL, Assembly<br>
 Tools: Git, Veeva Vault, SOLIDWORKS<br>
